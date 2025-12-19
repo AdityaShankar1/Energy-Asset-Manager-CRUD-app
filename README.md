@@ -13,6 +13,11 @@ This project showcases integration of enterprise‑grade databases with modern P
 - **Extensibility:** Can be extended with PySide6, Flet, or web frontends.
 
 ---
+## High Level Design (HLD):
+### tool used: Mermaid.js
+![WhatsApp Image 2025-12-19 at 17 27 02](https://github.com/user-attachments/assets/36a7dd04-3b63-4086-8e65-b41c84fd576d)
+
+---
 
 ## 🚀 Getting Started
 
